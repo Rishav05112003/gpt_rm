@@ -40,11 +40,9 @@ const Navbar = () => {
               <p>Sign In</p>
               <button type='button'>Sign In</button>
             </div>
-
           </div>
         )}
       </div>
-
     </div>
   );
 };
